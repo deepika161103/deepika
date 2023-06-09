@@ -2,6 +2,6 @@
 int main()
 {
   int c,d;
-  scanf("%d %d",&c,&d);
+  scanffff("%d %d",&c,&d);
   printf("%d",c+d);
 }
