@@ -1,7 +1,7 @@
 #include<stdi.h>
 int main()
 {
-  int c,d;
+  int c=10,d=5;
   scanffff("%d %d",&c,&d);
   printf("%d",c+d);
 }
